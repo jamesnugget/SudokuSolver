@@ -1,0 +1,13 @@
+function
+ptr counter
+	if box is not empty
+		go to next one
+	else
+		if 1 works, (test horiz, vert, and block)
+			place 1 into it.
+			and do next one
+		else if 2 works,
+		all the way to 9
+		else
+			return 0;
+	return 1;
